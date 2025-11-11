@@ -2,7 +2,7 @@
 
 **Materia:** Sistemas de Gestión de Datos  
 **Tema:** Implementación de una base de datos sobre Libros Personales y Economía Circular  
-**Alumno:** *[Tu nombre]*
+**Alumno:** Sara Castrillon Sanchez, Sebastian Arango, Juan Duque
 
 ---
 
